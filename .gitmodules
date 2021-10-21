@@ -1,0 +1,6 @@
+[submodule "face-generator"]
+	path = face-generator
+	url = git@github.com:jimenalozano/face-generator.git
+[submodule "face-generator-app"]
+	path = face-generator-app
+	url = git@github.com:maiteherran/face-generator-app.git
